@@ -61,7 +61,7 @@ const Wrapper = styled.div`
   }
   @media (min-width: 768px) {
     .newsletter-callout {
-      background-image: url("/src/assets/pexels-element-digital-1470171.jpg");
+      background-image: url("/assets/pexels-element-digital-1470171.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: bottom -160px right 0;

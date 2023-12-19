@@ -34,7 +34,7 @@ const Wrapper = styled.nav`
   }
   .nav-link:hover::after {
     content: "";
-    background-image: url("/src/assets/plant-icon.svg");
+    background-image: url("/assets/plant-icon.svg");
     width: 20px;
     height: 20px;
     position: absolute;

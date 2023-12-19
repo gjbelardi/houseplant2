@@ -8,7 +8,7 @@ const Navbar = () => {
         <span className="logo">
           <NavLink to="/" className="">
             <img
-              src="/src/assets/logo.svg"
+              src="/assets/logo.svg"
               alt="House Plant"
               style={{ width: "40%" }}
             />

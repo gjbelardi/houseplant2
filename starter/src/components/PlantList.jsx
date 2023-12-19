@@ -10,7 +10,7 @@ const PlantList = ({ plants }) => {
     // Extract the thumbnail URL from the default_image object
     const thumbnail = default_image
       ? default_image.thumbnail
-      : "/src/assets/shadow.jpeg";
+      : "/assets/shadow.jpeg";
     // console.log("THUMB", thumbnail);
 
     return {
